@@ -1,5 +1,9 @@
-### Hi there 👋
+<h2> Hi there 👋, I'm Gustavo Gonzalez! </h2>
 
+I'm a Blockchain Developer and an avid learner. I do mostly Solidity, Javascript and Typescript these days, but enjoy using other languages as well.
+- 🔭 I’m currently securing the open economy at OpenZeppelin.
+- 🌱 I’m currently learning yul, zk, rust and all things crypto.
+- 💬 Ask me about smart contracts, backend development and security.
 <!--
 **ggonzalez94/ggonzalez94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
